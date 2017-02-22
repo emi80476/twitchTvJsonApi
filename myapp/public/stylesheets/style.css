@@ -1,0 +1,29 @@
+body {
+  /*padding: 50px;*/
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+img{
+  height: 50px;
+  width: 50px;
+}
+
+.main {
+  min-height: 100vh;
+  background-color: #ccd6dd;
+}
+
+.main-header{
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.main-body{
+  margin: 0px 0 0 0;
+  width: 100%;
+}
